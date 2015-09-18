@@ -1,0 +1,6 @@
+## Interface: 60200
+## Title: Guild Assistant
+## Author: Chris Bruce
+## Notes: A tool for managing Guilds
+## SavedVariables: GAssistant_DB
+GAssistant.lua
